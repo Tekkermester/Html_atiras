@@ -24,7 +24,7 @@ def adat_beolvasas():
                 file_name = None
             else:
                 try:
-                    with open(file_name, encoding = 'UTF-8') as file:
+                    with open(file_name,'r', encoding = 'UTF-8') as file:
                         szoveg = file.read()
                         break
                 except FileNotFoundError:
