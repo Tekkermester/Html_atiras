@@ -233,7 +233,7 @@ def file_atiras(cserelt_szavak):
     global html, e_szoveg
     for k, v in cserelt_szavak.items():
         e_szoveg = e_szoveg.replace(k, v)
-    with open(file_name, 'r+') as file:
+    with open(file_name, 'r+', encoding = 'UTF-8') as file:
         file.write(e_szoveg)
     print("A fálj átírva!")
 
