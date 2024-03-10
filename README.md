@@ -1,12 +1,15 @@
-# Html fájlok átírása
+# Html és más fájlok átírása
 
 ### Letöltés, indítás:
-- Indításhoz töltse le a .exe fájlt (Windows rendszer esetén, a letöltésnél a böngésző lehet, hogy veszélyesnek találja --> ***Letöltés mindenképp***), majd futtasa.
+- Indításhoz töltse le a **.exe** fájlt (Windows rendszer esetén, a letöltésnél a böngésző lehet, hogy veszélyesnek találja --> ***Letöltés mindenképp***), majd futtasa.
+- ***A letöltött fájlt a windows a .exe kiterjesztés miatt lehet, hogy nem enged megnyitni:***
+  - *Kattinson* a **További információ** -ra, majd **Futtatás mindenképp**.
   
 <img src="https://github.com/Tekkermester/Html_atiras/assets/155743173/45cbf41a-633b-4c64-b255-88dbf4596888" width="312"/>
 <img src="https://github.com/Tekkermester/Html_atiras/assets/155743173/c21d337c-a6ae-4f27-aa93-2351e0cc446c" width="312"/>
 <br/>
-  Más rendszer esetén (pl.: MacOS) töltse le a .py fájlt, ha telepítve van a python a számítógépre, akkor a terminal-ból is futtathatja.
+
+- Más rendszer esetén (pl.: MacOS) vagy ha az .exe nem működik töltse le a **.py** fájlt, ha telepítve van a python a számítógépre, akkor a terminal-ból is futtathatja.
 ### Használat
 - Kövesd az utasításokat! :)
 - A '**hely**' használatánál az elérési útvonalat pontosan adja meg (*Például*: **Windows:** *C:\\\\Users\felhasználó\Asztal\átirandó.html*;  
