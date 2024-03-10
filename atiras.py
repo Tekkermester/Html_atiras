@@ -35,7 +35,7 @@ def adat_beolvasas():
                     print("Nem adtad meg a fájl nevét!")
         elif m_h.lower() == '!help':
             # segítség
-            print("Segítséget a https://weboldal.com oldalon talál")
+            print("Segítséget a https://github.com/Tekkermester/Html_atiras/blob/main/README.md oldalon talál!")
         else:
             print("Hibás bevitel! A 'masol' vagy a 'hely' parancsszavakat add meg!")
             file_name = None
